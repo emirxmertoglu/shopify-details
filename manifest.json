@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Shopify Details",
+  "description": "This extension will get you the Shopify page details.",
+  "version": "1.0",
+  
+  "browser_action": {
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
